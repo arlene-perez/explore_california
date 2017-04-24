@@ -1,5 +1,6 @@
 #Comment *.txt
 tempfile.text
+tempfile2.text
 .DS_Store
 *.zip
 *.gz
